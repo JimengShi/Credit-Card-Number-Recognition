@@ -24,7 +24,7 @@ The gif below show PART II and PART III in the framework:
 </div>
 
 <div align="center">
-<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" height="310px" alt="result" >
+<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" height="270px" alt="result" >
 </div>
 
 
