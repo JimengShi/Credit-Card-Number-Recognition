@@ -15,7 +15,6 @@ The GIF below show PART II and PART III in the framework:
 <img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/part2.gif" alt="part2" >
 </div>
 
-
 **PART III**
 <div align="center">
 <img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/part3.gif" alt="part3" >
@@ -23,7 +22,7 @@ The GIF below show PART II and PART III in the framework:
 
 ## Result 
 <div align="center">
-<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.png" alt="result" >
+<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.png" alt="result1" >
 </div>
 
 
