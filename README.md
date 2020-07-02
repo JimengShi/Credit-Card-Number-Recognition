@@ -9,7 +9,7 @@ A computer vision project about number recognition of credit card is achieved by
 
 
 ## Demo
-The gif below show PART II and PART III in the framework:
+The GIFs below show PART II and PART III in the framework:
 <div align="center">
 <img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/part2.gif" alt="part2" >
 </div>
