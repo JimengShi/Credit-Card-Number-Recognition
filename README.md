@@ -3,6 +3,9 @@ A computer vision project about number recognition of credit card is achieved by
 
 
 ## Framework
+<div align="center">
+<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/Framework.png" alt="Framework" >
+</div>
 
 ### PART I: preparation
 (1.1) import necessary packages
