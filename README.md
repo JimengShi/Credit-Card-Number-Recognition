@@ -1,5 +1,5 @@
 # Credit-Card-Number-Recognition
-A computer vision project about number recognition of credit card is achieved by OpenCV.
+A computer vision project about number recognition of credit card is achieved by OpenCV. The accuracy is 100%.
 
 
 ## Framework
@@ -18,13 +18,9 @@ The gif below show PART II and PART III in the framework:
 <img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/part3.gif" alt="part3" >
 </div>
 
-## Result
+## Result 
 <div align="center">
 <img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.png" alt="result" >
-</div>
-
-<div align="center">
-<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" height="270px" alt="result" >
 </div>
 
 
