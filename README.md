@@ -20,7 +20,7 @@ The gif below show PART II and PART III in the framework:
 
 ## Result
 <div align="center">
-<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" width=500 alt="result" >
+<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" width="500px" alt="result" >
 </div>
 
 
