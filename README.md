@@ -20,10 +20,18 @@ The gif below show PART II and PART III in the framework:
 
 ## Result
 <div align="center">
-<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" alt="result" >
+<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" width=500 alt="result" >
 </div>
 
 
 ## How to run
 **Environment**
--
+- Window 10
+- Pycharm 2020.1.2
+- OpenCV 4.2.0
+- Python 3.7.4 with some necessary libraries
+
+**Note**
+Because argparse library is used in this project, please:
+- edit parameters in Pycharm: --image images/credit_card_01.png --template images/ocr_a_reference.png
+- or type `python ocr_template_match --image images/credit_card_01.png --template images/ocr_a_reference.png` in the command prompt
