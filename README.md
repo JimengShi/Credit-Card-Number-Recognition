@@ -23,6 +23,10 @@ The gif below show PART II and PART III in the framework:
 <img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.png" alt="result" >
 </div>
 
+<div align="center">
+<img src="https://github.com/JimengShi/Credit-Card-Number-Recognition/blob/master/images/result.jpg" height="300px" alt="result" >
+</div>
+
 
 ## How to run
 **Environment**
